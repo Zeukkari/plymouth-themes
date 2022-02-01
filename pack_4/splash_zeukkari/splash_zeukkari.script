@@ -1,7 +1,5 @@
-## Author : Aditya Shakya (adi1090x)
-## Mail : adi1090x@gmail.com
-## Github : @adi1090x
-## Reddit : @adi1090x
+## Author : Zeukkari
+## Script copied from abstract_ring by Aditya Shakya (adi1090x)
 
 // Screen size
 screen.w = Window.GetWidth();
